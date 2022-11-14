@@ -34,3 +34,10 @@ export function image(block) {
         </div>
     `
 }
+
+export const templates = {
+    title,
+    text,
+    image,
+    columns
+}
