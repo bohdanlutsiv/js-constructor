@@ -1,38 +1,21 @@
-export function title(block) {
-    return `
-    <div class="row">
-        <div class="col-sm">
-            <h1>${block.velue}</h1>
-        </div>
-    </div>    
-    `
+import {row, col} from './utilts'
+
+function title(block) {
+    return row(col(<h1>${block.velue}</h1>))
 }
 
-export function text(block) {
-    return `
-    <div class="row">
-    <div class="col-sm">
-        <p>${block.velue}</p>
-    </div>
-</div>
-    `
+function text(block) {
+    return row(col(<p>${block.velue}</p>))
 }
 
-export function columns(block) {
-    const html = block.velue.map(item => `<div class="col-sm">${item}</div>`)
-    return `
-    <div class="row">
-        ${html.join('')}
-    </div>
-    `
+
+function columns(block) {
+    const html = block.velue.map(col).join('')
+    return row(html)
 }
 
-export function image(block) {
-    return `
-        <div class = "row">
-        <img src = "${block.velue}"
-        </div>
-    `
+function image(block) {
+    return row(<img src = "${block.velue}" />)
 }
 
 export const templates = {
