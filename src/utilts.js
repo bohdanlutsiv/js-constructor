@@ -5,7 +5,7 @@ export function col(content) {
     return `<div class="col-sm">${content}</div>`
 }
 
-export function css(styles = {} {
-    const toString = key => ${rey}: ${styles[key]}`
+export function css(styles = {}) {
+    const toString = key => `${rey}: ${styles[key]}`
     return Object.keys(styles).map(toString).join(';')
 })
