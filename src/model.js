@@ -26,23 +26,28 @@ export const model = [
         },
     } 
 },
-  new ColumnsBlock([
-    'Приложение на чистом JavaScript, без использования библиотек',
-    'Узнаешь как работают принципы SOLID и ООП в JavaScript за один курс',
-    'JavaScript - это просто, интересно. Научись создавать любые UI своими руками'
-  ], {
-    styles: {
-      background: 'linear-gradient(to bottom, #8e2de2, #4a00e0)',
-      padding: '2rem',
-      color: '#fff',
-      'font-weight': 'bold'
+{
+    type: 'columns', value: [
+        'Приложение на чистом JavaScript, без использования библиотек',
+        'Узнаешь как работают принципы SOLID и ООП в JavaScript за один курс',
+        'JavaScript - это просто, интересно. Научись создавать любые UI своими руками'
+      ], options {
+        styles: {
+          background: 'linear-gradient(to bottom, #8e2de2, #4a00e0)',
+          padding: '2rem',
+          color: '#fff',
+          'font-weight': 'bold'
+        }
+      }
+},
+ {
+    type: 'text', value: text, options: {
+        styles: {
+            background: 'linear-gradient(to left, #f2994a, #f2c94c)',
+            padding: '1rem',
+            'font-weight': 'bold'
+          }
     }
-  }),
-  new TextBlock(text, {
-    styles: {
-      background: 'linear-gradient(to left, #f2994a, #f2c94c)',
-      padding: '1rem',
-      'font-weight': 'bold'
-    }
-  })
+    
+ },
 ]
