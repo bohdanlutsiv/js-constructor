@@ -8,4 +8,4 @@ export function col(content) {
 export function css(styles = {}) {
     const toString = key => `${rey}: ${styles[key]}`
     return Object.keys(styles).map(toString).join(';')
-})
+}

@@ -18,7 +18,7 @@ export const model = [
     }   
 },
 {
-   type: 'image', value: image, options {
+   type: 'image', value: image, options: {
         styles: {
           padding: '2rem 0',
           display: 'flex',
@@ -31,7 +31,7 @@ export const model = [
         'Приложение на чистом JavaScript, без использования библиотек',
         'Узнаешь как работают принципы SOLID и ООП в JavaScript за один курс',
         'JavaScript - это просто, интересно. Научись создавать любые UI своими руками'
-      ], options {
+      ], options: {
         styles: {
           background: 'linear-gradient(to bottom, #8e2de2, #4a00e0)',
           padding: '2rem',
