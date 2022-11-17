@@ -1,9 +1,8 @@
 import {row, col} from './utilts'
 
 function title(block) {
-    const tag = block.options.tag ?? 'h1'
-
-    return row(col(`<${tag}>${block.velue}</${tag}>`))
+    const {tag = 'h1', styles} = block.options
+    return row(col(`<${tag}>${block.velue}</${tag}>`), css(styles))
 }
 
 function text(block) {
