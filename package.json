@@ -1,20 +1,16 @@
 {
   "name": "js-constructor",
   "version": "1.0.0",
-  "description": "javascript pure aplication",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "parcel ./src/index.html -p 4200 --open"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bohdanlutsiv/js-constructor.git"
   },
-  "keywords": [
-    "js",
-    "javascript"
-  ],
-  "author": "bohdan <b@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bohdanlutsiv/js-constructor/issues"
