@@ -1,10 +1,10 @@
-4202
+4201
 58D:\Навчання\js-constructor\node_modules\css-select133137143845411108 1
 94D:\Навчання\js-constructor\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133137143827681870 0
 63D:\Навчання\js-constructor\node_modules\chalk\readme.md133137143844004844 0
 70D:\Навчання\js-constructor\node_modules\yaml\browser\scalar.js133137143864846503 0
 81D:\Навчання\js-constructor\node_modules\@parcel\runtime-react-refresh\lib133137143781401200 1
-47D:\Навчання\js-constructor\package.json133137143865471450 0
+47D:\Навчання\js-constructor\package.json133139690097789167 0
 103D:\Навчання\js-constructor\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133137143856252748 0
 72D:\Навчання\js-constructor\node_modules\abortcontroller-polyfill133137143834004815 1
 75D:\Навчання\js-constructor\node_modules\css-select\lib\general.d.ts133137143844942370 0
@@ -25,7 +25,7 @@
 79D:\Навчання\js-constructor\node_modules\lightningcss\node\index.js.flow133137143854377721 0
 74D:\Навчання\js-constructor\node_modules\mdn-data\css\syntaxes.json133137143856721454 0
 89D:\Навчання\js-constructor\node_modules\electron-to-chromium\chromium-versions.js133137143849221469 0
-39D:\Навчання\js-constructor\dist133137148869693560 1
+39D:\Навчання\js-constructor\dist133137152197951950 1
 101D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\comparedocumentposition.js133137143835411149 0
 94D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\addeventlistener.js133137143834942426 0
 62D:\Навчання\js-constructor\node_modules\posthtml\types133137143859846479 1
@@ -41,21 +41,6 @@
 90D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\setimmediate.js133137143839942290 0
 61D:\Навчання\js-constructor\node_modules\css-tree\dist133137143845567400 1
 57D:\Навчання\js-constructor\node_modules\path-type133137143859221440 1
-68D:\Навчання\js-constructor\node_modules\terser\lib\output.js133137146679599040 0
-79D:\Навчання\js-constructor\node_modules\@parcel\source-map\dist\node.js133137143781557442 0
-79D:\Навчання\js-constructor\node_modules\caniuse-lite\data\regions\CV.js133137143841661103 0
-87D:\Навчання\js-constructor\node_modules\electron-to-chromium\full-versions.json133137143849377745 0
-85D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\pointer.js133137143839473603 0
-54D:\Навчання\js-constructor\node_modules\dotenv133137143849221469 1
-76D:\Навчання\js-constructor\node_modules\chrome-trace-event\README.md133137143844004844 0
-79D:\Навчання\js-constructor\node_modules\caniuse-lite\data\regions\KN.js133137143842286044 0
-64D:\Навчання\js-constructor\node_modules\stable\README.md133137143860784019 0
-43D:\Навчання\js-constructor\main.css133137143761283259 0
-64D:\Навчання\js-constructor\node_modules\is-json\index.js133137143851565225 0
-89D:\Навчання\js-constructor\node_modules\@swc\helpers\lib\_wrap_async_generator.js133137143832213187 0
-85D:\Навчання\js-constructor\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133137146686185625 0
-76D:\Навчання\js-constructor\node_modules\svgo\plugins\minifyStyles.js133137146675485256 0
-75D:\Навчання\js-constructor\node_modules\@parcel\watcher\src\windows133137143830650634 1
 78D:\Навчання\js-constructor\node_modules\lmdb\dependencies\lmdb-data-v1133137143854533955 1
 47D:\Навчання\js-constructor\node_modules133137146705012763 1
 53D:\Навчання\js-constructor\src\classes\app.js133137143865471450 0
@@ -284,6 +269,13 @@
 73D:\Навчання\js-constructor\node_modules\yaml\browser\dist\util.js133137143864846503 0
 82D:\Навчання\js-constructor\node_modules\@parcel\package-manager\index.d.ts133137143778588645 0
 62D:\Навчання\js-constructor\node_modules\domelementtype133137143848596514 1
+68D:\Навчання\js-constructor\node_modules\terser\lib\output.js133137146679599040 0
+79D:\Навчання\js-constructor\node_modules\@parcel\source-map\dist\node.js133137143781557442 0
+79D:\Навчання\js-constructor\node_modules\caniuse-lite\data\regions\CV.js133137143841661103 0
+87D:\Навчання\js-constructor\node_modules\electron-to-chromium\full-versions.json133137143849377745 0
+85D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\pointer.js133137143839473603 0
+54D:\Навчання\js-constructor\node_modules\dotenv133137143849221469 1
+76D:\Навчання\js-constructor\node_modules\chrome-trace-event\README.md133137143844004844 0
 70D:\Навчання\js-constructor\node_modules\timsort\src\timsort.js133137143863440229 0
 100D:\Навчання\js-constructor\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-gnu.node133137143809802363 0
 73D:\Навчання\js-constructor\node_modules\tslib\CopyrightNotice.txt133137143863440229 0
@@ -1197,6 +1189,13 @@
 72D:\Навчання\js-constructor\node_modules\domhandler\lib\node.d.ts133137143848752746 0
 83D:\Навчання\js-constructor\node_modules\lmdb\dependencies\lz4\lib\README.md133137143855471483 0
 68D:\Навчання\js-constructor\node_modules\browserslist\LICENSE133137146661193529 0
+79D:\Навчання\js-constructor\node_modules\caniuse-lite\data\regions\KN.js133137143842286044 0
+64D:\Навчання\js-constructor\node_modules\stable\README.md133137143860784019 0
+64D:\Навчання\js-constructor\node_modules\is-json\index.js133137143851565225 0
+89D:\Навчання\js-constructor\node_modules\@swc\helpers\lib\_wrap_async_generator.js133137143832213187 0
+85D:\Навчання\js-constructor\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133137146686185625 0
+76D:\Навчання\js-constructor\node_modules\svgo\plugins\minifyStyles.js133137146675485256 0
+75D:\Навчання\js-constructor\node_modules\@parcel\watcher\src\windows133137143830650634 1
 71D:\Навчання\js-constructor\node_modules\css-select\lib\types.js133137143845411108 0
 85D:\Навчання\js-constructor\node_modules\svgo\plugins\moveGroupAttrsToElems.js133137146675847638 0
 74D:\Навчання\js-constructor\node_modules\react-refresh\package.json133137143860002718 0
@@ -1338,9 +1337,9 @@
 96D:\Навчання\js-constructor\node_modules\@parcel\node-resolver-core\test\fixture\packages133137143776423638 1
 83D:\Навчання\js-constructor\node_modules\css-tree\lib\common\adopt-buffer.js133137143845723575 0
 73D:\Навчання\js-constructor\node_modules\lines-and-columns\LICENSE133137143854377721 0
+67D:\Навчання\js-constructor\node_modules\safe-buffer\LICENSE133137143860158970 0
 64D:\Навчання\js-constructor\node_modules\msgpackr\LICENSE133137143857033998 0
 85D:\Навчання\js-constructor\node_modules\source-map\lib\source-map-consumer.js133137143860784019 0
-67D:\Навчання\js-constructor\node_modules\safe-buffer\LICENSE133137143860158970 0
 84D:\Навчання\js-constructor\node_modules\css-tree\lib\lexer\prepare-tokens.js133137143845879850 0
 74D:\Навчання\js-constructor\node_modules\mdn-data\css\at-rules.json133137143856565240 0
 77D:\Навчання\js-constructor\node_modules\source-map\lib\source-node.js133137143860784019 0
@@ -2471,7 +2470,7 @@
 84D:\Навчання\js-constructor\node_modules\css-tree\lib\syntax\node\Selector.js133137143846504853 0
 71D:\Навчання\js-constructor\node_modules\@parcel\watcher\LICENSE133137143829713131 0
 79D:\Навчання\js-constructor\node_modules\@parcel\workers\src\cpuCount.js133137143830963130 0
-61D:\Навчання\js-constructor\dist\index.975ef6c8.js.map133137148869553523 0
+61D:\Навчання\js-constructor\dist\index.975ef6c8.js.map133137152197821974 0
 88D:\Навчання\js-constructor\node_modules\css-tree\lib\syntax\node\SelectorList.js133137143846504853 0
 82D:\Навчання\js-constructor\node_modules\css-tree\lib\syntax\node\String.js133137143846504853 0
 81D:\Навчання\js-constructor\node_modules\@jridgewell\source-map\dist\types133137143763158322 1
@@ -3123,7 +3122,7 @@
 98D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\subresource-bundling.js133137143840098604 0
 76D:\Навчання\js-constructor\node_modules\@parcel\workers\lib\types.js133137143830963130 0
 85D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\svg-css.js133137143840098604 0
-50D:\Навчання\js-constructor\dist\index.html133137148867933532 0
+50D:\Навчання\js-constructor\dist\index.html133137152197321844 0
 89D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\svg-filters.js133137143840098604 0
 71D:\Навчання\js-constructor\node_modules\@parcel\transformer-raw133137143827681870 1
 85D:\Навчання\js-constructor\node_modules\caniuse-lite\data\features\svg-img.js133137143840254812 0
@@ -4197,7 +4196,7 @@
 57D:\Навчання\js-constructor\node_modules\.bin\svgo133137146690495993 0
 59D:\Навчання\js-constructor\node_modules\.bin\terser133137146690495993 0
 63D:\Навчання\js-constructor\node_modules\.bin\terser.ps1133137146690495993 0
-58D:\Навчання\js-constructor\dist\image.513edb25.png133137148868853601 0
-58D:\Навчання\js-constructor\dist\index.5525e4b8.css133137148868893520 0
-62D:\Навчання\js-constructor\dist\index.5525e4b8.css.map133137148869553523 0
-57D:\Навчання\js-constructor\dist\index.975ef6c8.js133137148868893520 0
+58D:\Навчання\js-constructor\dist\image.513edb25.png133137152197331907 0
+58D:\Навчання\js-constructor\dist\index.5525e4b8.css133137152197331907 0
+62D:\Навчання\js-constructor\dist\index.5525e4b8.css.map133137152197831922 0
+57D:\Навчання\js-constructor\dist\index.975ef6c8.js133137152197321844 0

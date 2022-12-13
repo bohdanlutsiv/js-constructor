@@ -46,5 +46,5 @@ new TextBlock(text, {
       padding: '1rem',
       'font-weight': 'bold'
     }
-})
+}),
 ]
